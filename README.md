@@ -1,2 +1,2 @@
 # altassign
-merge JSON objects
+for merge two JSON objects
